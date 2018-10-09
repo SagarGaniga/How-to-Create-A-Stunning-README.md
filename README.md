@@ -3,7 +3,6 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![HitCount](http://hits.dwyl.io/murlis97/UsefulTutorials.svg)](http://hits.dwyl.io/murlis97/UsefulTutorials)
 
 README is a gateway to your projects to others. It is extremely important to maintain a readme file which is user understandable and catchy at same time.
 
