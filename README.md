@@ -3,6 +3,8 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+
 ![](https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png)
 
 
@@ -96,4 +98,33 @@ Additionally you can create another document called CONTRIBUTING.md which gives 
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
+Write about yourself or your organization, who created this project. For example:
+ 
+Sagar Ganiga  – tech.ganiga@gmail.com
+ 
+ You can find me here at:
+[Github](https://github.com/SagarGaniga)
+[LinkedIn](https://www.linkedin.com/in/sagar-ganiga/)
+
+## Credits
+Give credits to all the useful resources you used to create this project. It could be a link to any repository which inspired you to build this project, any blog or links to people who contributed in this project.
+
+A heartfelt thank you to [@UjalaJha](https://github.com/UjalaJha) for the encouragement I needed to get this idea off the ground and start writing!
+
+Thank you to the following awesome geeks for sending PRs and improving the Quality of this project ❤️
+* [@UjalaJha](https://github.com/UjalaJha)
+
+Here's a list of other related projects / blogs which helped me in creating the best possible version of my project:
+* [README-Template.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) by [@PurpleBooth](https://gist.github.com/PurpleBooth)
+* [A Beginners Guide to writing a Kickass README ✍](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) by Akash Nimare
+* [readme-best-practices](https://github.com/jehna/readme-best-practices) by [@jehna](https://github.com/jehna/)
+* [readme-template](https://github.com/dbader/readme-template/blob/master/README.md) by [@dbader](https://github.com/dbader/)
+* [art-of-readme](https://github.com/noffle/art-of-readme/blob/master/README.md) by [@noffle](https://github.com/noffle/)
+* [Make a README](https://www.makeareadme.com/)
+
 ## License
+A short snippet describing the license (MIT, Apache etc)
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+MIT © Yourname
