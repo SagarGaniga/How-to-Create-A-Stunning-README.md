@@ -14,17 +14,28 @@ For example:
 
 ## Installation
 A step by step list of commands / guide that informs how to install an instance of this project. 
+
 `$ pip install foobar`
+
 `$ npm install project-name --save`
+
 `$ any other command`
 
 For Linux and OS X
+
 `npm install project-name --save`
 
 For Windows
+
 `git clone project-url`
  
 ## Screenshots
+Use this space to give a little demo of your project. Attach important screenshots if applicable. This section is optional and might not be applicable in some cases.
+
+![Screenshots of projects](https://dradisframework.com/images/pro/screenshots/screenshot-62_small.png)
+
+![Screenshots of the project](http://securityroots.com/blog/wp-content/uploads/2013/12/snowcrash-01.png)
+
 ## Features
 ## Usage example
 ## Running the tests
