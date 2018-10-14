@@ -37,7 +37,22 @@ Use this space to give a little demo of your project. Attach important screensho
 ![Screenshots of the project](http://securityroots.com/blog/wp-content/uploads/2013/12/snowcrash-01.png)
 
 ## Features
+Write a little about unique features of your project and what makes it outstanding. Describe the functionalities of your project. You can make a list of it with some descriptions, like:
+* Used Bootstrap to make it 100% responsive
+* Used AI/ML to automate some stuff
+* Etc Etc......
+
 ## Usage example
+Show how and what your project does. Users should figure out how your project solves their problem by looking at the code example. Spice this up with code blocks and potentially more screenshots. These examples should motivate the users to use your project. 
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+``` 
+
+Mention any other documentation or live example available for reverence.
 ## Running the tests
 ## Deployment
 ## Built With
