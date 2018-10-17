@@ -123,7 +123,7 @@ Here's a list of other related projects / blogs which helped me in creating the 
 * [Make a README](https://www.makeareadme.com/)
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
+A short snippet describing the license (MIT, Apache etc).
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
