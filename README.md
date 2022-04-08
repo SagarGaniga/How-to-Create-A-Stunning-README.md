@@ -1,5 +1,5 @@
 # Your Project Title
-> Write a little description about your project. 2-3 sentances are enough.
+> Write a little description about your project. 2-3 sentences are enough.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
